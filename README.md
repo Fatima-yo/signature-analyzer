@@ -1,4 +1,4 @@
-# Very Smart Analyzer
+# Signature Analyzer
 
 A comprehensive smart contract fuzz-testing tool for analyzing Ethereum smart contracts, with a focus on signature verification vulnerabilities and AI-assisted analysis.
 
