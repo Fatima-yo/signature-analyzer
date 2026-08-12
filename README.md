@@ -12,7 +12,7 @@ This tool follows a **clear separation of concerns**:
 ## 🏗️ **Architecture**
 
 ```
-very_smart_analyzer/
+signature_analyzer/
 ├── cmd/analyzer/          # Main CLI application
 ├── internal/
 │   ├── analyzer/          # Security analysis engine + Claude AI integration
